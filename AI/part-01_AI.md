@@ -1,4 +1,4 @@
-#
+# Artificial Intelligence
 
 ### AI Problems:
 
@@ -38,4 +38,7 @@ eg: self driving car( if it sees a man across the road, it remembers the truck t
 
 - This type of agents chooses actions based on whether they help it achieve the goal.
 - This agent plans a sequence of actions that helps it achieve the goal.
-- 
+- It may try different paths to find the best one.
+
+
+ 
