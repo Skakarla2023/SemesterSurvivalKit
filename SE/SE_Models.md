@@ -1,6 +1,6 @@
 # Software Development Models
 
-Process model is a framework that describes the activities, tasks, and milestones at each stage of software development project that leads to high qualitgy software.
+Process model is a framework that describes the activities, tasks, and milestones at each stage of software development project that leads to high quality software.
 
 Life Cycle Models:
 
