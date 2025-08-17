@@ -10,6 +10,7 @@
 - Get Cntinuous feedback from the user.
 - Be flexible to make changes even in coming stages of the development.
 
+
 ## Agile Principles
 
 1. High customer satisfaction
@@ -20,11 +21,14 @@
 6. Collaboration between developers, testers and customers
 7. Maintain a sustainable pace of development.
 
+
 ## Agile Frameworks
 
 - Scrum
 - Kanban
 - Lean Development
+- Extreme development
+
 
 ## Differences between Waterfall Model and Agile Model
 
@@ -35,6 +39,7 @@
 | Customer involvement                 | Less                  | high                            |
 | Testing                              | at the end            | continuous(every sprint)        |
 | Delivery                             | at the end of project | continuous(after every sprint)  |
+
 
 ## Advantages
 
