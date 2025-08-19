@@ -58,7 +58,7 @@
 
 ## Fact Constellation Schema
 
-- Sophosticated applications may require multiple fact tables to share dimension tables.
+- Sophisticated applications may require multiple fact tables to share dimension tables.
 - This type of schema appears as a collection of stars or a galaxy.
 - Hence this schema is called as **Galaxy schema** or **Fact constellation schema**.
 - A fact constellation schema allows dimension tables to be shared amond fact tables.
