@@ -41,4 +41,23 @@ eg:gender
 eg:disease test:(yes/no)
 
 
-##
+## Ordinal Attributes 
+
+- The values of these attributes have meaningful information with ranking.
+
+eg:size-{small,medium,large}
+
+
+## Numeric Attributes 
+
+- The values of these attributes are numbers or quantity.
+
+### Interval 
+
+- Measured on a scale of equal units.
+eg: temperature 
+
+### Ratio
+
+- Values have order, difference and a true zero.
+eg: salary
