@@ -55,9 +55,11 @@ eg:size-{small,medium,large}
 ### Interval 
 
 - Measured on a scale of equal units.
+
 eg: temperature 
 
 ### Ratio
 
 - Values have order, difference and a true zero.
+
 eg: salary
