@@ -11,6 +11,6 @@
 ## Standard Tries
 
 - A standard trie for a set of strings is an ordered tree such that:
-- Every node except the root note is labelled with a character.
+    - Every node except the root note is labelled with a character.
 
 -  
