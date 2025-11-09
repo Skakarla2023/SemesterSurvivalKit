@@ -1,0 +1,3 @@
+- An agent is a program or system that takes input from the environment (through sensors) and gives output (through actions) to achieve a goal.
+- The Environment is the world or surroundings in which the agent operates.
+- It provides information to the agent and is affected by the agent’s actions.
