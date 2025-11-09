@@ -2,7 +2,7 @@
 
 - Statistical Reasoning in AI involves using statistical methods and probability to understand patterns in data and make predictions based on past information.
 - AI uses statistical reasoning with probability and conditional probability to understand patterns and make predictions.
-
+  
     
 <img width="878" height="642" alt="image" src="https://github.com/user-attachments/assets/248b7d88-18f8-41dc-a9ad-cbdd18dd6eb0" />
 
