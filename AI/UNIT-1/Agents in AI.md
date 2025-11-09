@@ -2,7 +2,7 @@
 
 ### AI Problems:
 
-- An AI problem is a atask that you want the computer to solve by using its intelligence, not by just raw-number crunching but behaviour like planning, making wise decisions, or knowing the soluton isn't obvious.
+- An AI problem is a task where we want the computer to think smartly-not just do calculations, but plan, make good choices and find solutions.
 
 ### Agents in AI
 
