@@ -8,3 +8,8 @@
 
 <img width="1070" height="485" alt="image" src="https://github.com/user-attachments/assets/e1e6bbf5-53e7-4e12-b803-336a40a9a3bb" />
 
+
+
+## Probabilistic Reasoning
+
+- PR means making decisions or predictions based on how likely something is to happen, instead of being 100% sure.
