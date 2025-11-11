@@ -63,13 +63,13 @@
 - Goal: Planning a birthday party.
 - Sub-goals:
   - Order food
-    → Order pizzas
-    → Buy drinks
+    - Order pizzas
+    - Buy drinks
   - Invite friends
-    → call friends
+    - call friends
   - Decorate room
-    → buy balloons
-    → buy decorations
+    - buy balloons
+    - buy decorations
 
 ### Difference between goal stack and hierarchical
 
