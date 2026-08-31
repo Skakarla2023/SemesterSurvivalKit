@@ -23,7 +23,7 @@
 <img width="389" height="257" alt="image" src="https://github.com/user-attachments/assets/0a84a434-ad19-4bb5-b2e0-09c298ed1c75" />
  
 
-### 2. Build high dimensional graph
+### 2. Nearest Neighbors
 
 - UMAP looks at each data point and finds its nearest neighbors.
 - A nearest neighbor is simply a data point that is similar or close to another point.
@@ -34,7 +34,7 @@
 - This helps UMAP understand the local structure of the data.
 - **Local structure** means the relationships between a point and the points that are close to it.
 
-### 3. build low-dimensional graph
+### 3. build high-dimensional graph
 
 - UMAP represents the relationships between neighboring points using a graph.
   - **Nodes** → Data points
