@@ -7,7 +7,7 @@
 
 - In unmasked self-attention, a word can attend to all the words in the sequence, including words that come after it.
 - There is no restriction on looking at future tokens.
-- In unmasked self attention attending past words, current wor and future words is allowed.
+- In unmasked self attention attending past words, current words and future words is allowed.
 
 **Example**
 
