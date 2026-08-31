@@ -67,8 +67,6 @@ Example:
 - But here the first step is step-back - which means to generate more abstract and general information about the topic, and then try to solve it.
 - Step back prompting is a technique where you ask the AI to think about the general idea behind the problem, before solving a specific problem.
 
-**Eg:**
-
 Eg:
 
 **Normal Prompt**
