@@ -6,7 +6,7 @@
 
 ## Types of Prompting
 
-- Prompting techniques or types of prompting are different ways of giving instructions to AI modele, to get more desired output.
+- Prompting techniques or types of prompting are different ways of giving instructions to AI models, to get more desired output.
 - The following are the different types of prompting:
   - Chain of thought prompting
     - Zero Shot Chain of thought prompting
