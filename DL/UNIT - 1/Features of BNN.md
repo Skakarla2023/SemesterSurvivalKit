@@ -8,7 +8,7 @@
   - Flexibility
   - Ability to deal with variety of data sources
   - Collective competence
- 
+  
 <img width="580" height="242" alt="image" src="https://github.com/user-attachments/assets/b9be7df5-233b-431b-9cce-00f681bdc036" />
 
 
