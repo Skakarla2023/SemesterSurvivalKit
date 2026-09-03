@@ -1,5 +1,8 @@
 ## Structure of BNN
 
+
+<img width="580" height="242" alt="image" src="https://github.com/user-attachments/assets/b9be7df5-233b-431b-9cce-00f681bdc036" />
+
 - A Biological Neural Network (BNN) is a network of interconnected biological neurons in the brain and nervous system.
 - A neuron receives information from other neurons, processes it, and passes the information to other neurons.
 - The basic flow is:
