@@ -26,6 +26,23 @@ Consider the sentence:
 
 
 ### Architecture of LSTM
+
+<img width="800" height="625" alt="image" src="https://github.com/user-attachments/assets/0a862a1c-038c-44f3-b597-da5cddddcd3d" />
+
+
+### Components 
+
+**1. Cell State**: Acts as long-term memory. It carries important information from previous steps to future steps.
+
+**2. Hidden State**: Acts as short-term memory. It represents the current information and is passed to the next step.
+
+**3. Gates in LSTM**:
+
+**a. Forget Gate**
+- Decides what information should be forgotten from previous memory.
+- Uses the Sigmoid activation function.
+- Produces values between 0 and 1.
+
 Example: Removes unnecessary old information.
 
 **b. Input Gate**
