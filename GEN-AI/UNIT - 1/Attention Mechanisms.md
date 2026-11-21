@@ -3,7 +3,7 @@
 - An attention mechanism is a tool that helps AI focus on the most important parts of input data instead of treating every piece of information equally.
 - Instead of treating every word as equally important, the model looks at other relevant words and gives them different levels of importance.
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cd69ecdf-6fa5-4f8b-8640-42deb6a4784e" />
+
 
 **Eg:** 
 
@@ -58,3 +58,7 @@ English: "I love India."
   - Key (K) → comes from the input sequence
   - Value (V) → comes from the input sequence
 - Cross-attention = One sequence attends to information from another sequence.
+
+
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cd69ecdf-6fa5-4f8b-8640-42deb6a4784e" />
