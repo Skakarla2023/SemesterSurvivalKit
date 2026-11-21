@@ -5,7 +5,7 @@
 - A prompt needs to be more clear and specific so that one gets a response closer to their expected response.
 
 
-## Ingreidents of prompting
+## Ingridients of prompting
 
 ### 1. Context
 
