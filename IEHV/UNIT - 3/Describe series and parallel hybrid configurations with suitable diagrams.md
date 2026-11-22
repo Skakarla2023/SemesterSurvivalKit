@@ -24,4 +24,24 @@ The battery can also supply electricity to the motor and store excess electrical
 
 **Eg:** Nissan e-power
 
+# Parallel Hybrid Configuration
+
+- In a Parallel Hybrid Vehicle, both the IC engine and electric motor are mechanically connected to the transmission and can drive the wheels.
+- Both the IC engine and electric motor can directly provide mechanical power to the wheels.
+
+<img width="409" height="251" alt="image" src="https://github.com/user-attachments/assets/4b7b3db1-4696-49b6-9774-f5745f2fe6d9" />
+
+### Working of Parallel Hybrid
+
+1. The fuel tank supplies fuel to the IC engine.
+2. The IC engine converts fuel energy into mechanical energy.
+3. The battery supplies electrical energy to the electric motor.
+4. The electric motor converts electrical energy into mechanical energy.
+5. Both the engine and electric motor are connected mechanically to the transmission.
+6. Their power is combined and transferred to the wheels.
+
+**Eg:** Honda Insight
+
+
+<img width="401" height="161" alt="image" src="https://github.com/user-attachments/assets/f9eaa6eb-8d0a-4d46-8ca8-ad7ed5fa75a7" />
 
