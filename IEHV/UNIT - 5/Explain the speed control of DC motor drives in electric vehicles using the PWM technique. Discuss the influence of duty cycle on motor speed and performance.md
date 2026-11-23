@@ -20,6 +20,9 @@
   - Duty Cycle: Percentage of time the supply remains ON during one switching cycle.
   - Switching Frequency: Number of ON-OFF cycles per second.
 
+<img width="985" height="668" alt="image" src="https://github.com/user-attachments/assets/08e113e9-fa9e-4162-a9bf-bcba1e4933ca" />
+
+
 ### Working
 
 The working is simple:
